@@ -1,27 +1,31 @@
-# JvWeather
+## JV Weather em Angular
+ Projeto de consulta de temperatura em cidades, através de API. 
+  
+ ![front_web]( https://github.com/tiagodalmeida87/jv-weather-angular/blob/main/JV_Weather_front.jpg)
+###### front-end – JV Weather em Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+### O projeto
 
-## Development server
+Este projeto realiza a consulta de temperatura nas cidades e com mais detalhes temos a previsão do tempo para 8 dias, o objetivo do laboratório prático é evoluir mais ainda os conhecimentos em **Angular**, desenvolvimento Web e API, com práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem.
+ 
+### TECNOLOGIAS 🖥️
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### Website  
+- HTML
+- CSS 
+- TypeScript
+- JavaScript
 
-## Code scaffolding
+### Para utilizar 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Primeiro, você precisa ter o Angular CLI instalado na sua máquina.
 
-## Build
+##### Utilizando como Development:
+ Abrindo o terminal no diretório da pasta executa o comando ```ng server```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Se o browser não abrir automaticamente, acesse: [http://localhost:4200](http://localhost:4200).
 
-## Running unit tests
+### AGRADECIMENTOS
+O laboratório prático JV Weather em Angular é um dos cursos do Bootcamp [everis](https://www.everis.com/brazil/pt-br) oferecido pela [Digital Innovation One]( https://digitalinnovation.one/), através do instrutor [João Ghignatti]( https://github.com/JGhignatti).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑💻
